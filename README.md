@@ -21,7 +21,7 @@
 
 #### Install and Configuration:
 
-> open 'cmd' as admin and navigate to the web app diractory.
+> open 'cmd' as admin and navigate to the web app directory.
 >
 > enter the command "dotnet run" without qoutes
 >
